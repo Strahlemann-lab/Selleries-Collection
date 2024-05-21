@@ -20,6 +20,7 @@ function convert() {
         
         if (i >= 4) {
         container.removeChild(image);
+        document.getElementById("roem.zahlwarnung").innerHTML = "";
         }
 
     let einer = number % 10;
