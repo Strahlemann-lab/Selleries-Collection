@@ -1,0 +1,19 @@
+html{
+	background-color: #0a0a0a;
+	display: flex;
+	width: 100%;
+	position: static;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+body {
+	border: 1px solid;
+	border-color: white;
+	border-radius: 15px;
+	padding: 0.002rem 0.5rem 0.4rem 1rem;
+	font-family: Arial, Bahnschrift;
+	color: white;
+	width: 600px;
+}
